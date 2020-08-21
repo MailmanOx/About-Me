@@ -1,0 +1,43 @@
+body {
+  background-image: url("https://www.techspot.com/images2/news/bigimage/2016/10/2016-10-28-image.gif");
+}
+
+h1 {
+  color: white;
+}
+
+h2 {
+  color: white;
+}
+
+ol {
+  color: white;
+}
+
+header {
+  padding: 60px;
+  text-align: center;
+  color: #7c7c92;
+  font-size: 30px;
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #ac9893;
+  color: black;
+  text-align: center;
+}
+h3 {
+  color: white;
+}
+
+p {
+  color: white;
+}
+
+ul {
+  color: white;
+}
